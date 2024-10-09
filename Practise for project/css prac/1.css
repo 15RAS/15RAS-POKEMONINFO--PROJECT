@@ -1,0 +1,36 @@
+*{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#nav{
+    height: 60px;
+    width: 1650px;
+    background-color: #0f1111;
+}
+#log{
+    color: #f08804;
+    font-size: 25px;
+    margin-right: 200px;
+}
+#log1{
+    margin-right: 200px;
+}
+#log2{
+    margin-right: 200px;
+}
+#log3{
+    margin-right: 200px;
+}
+button{
+    background-color: #f08804;
+}
+.r1{
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+    display: inline-block;
+}
+main{
+    height: 500px;
+}

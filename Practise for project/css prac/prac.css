@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#nav{
+    height: 60px;
+    width: 1600px;
+    background-color: #0f1111;
+}
+#log{
+    color: #f08804;
+    font-size: 25px;
+    margin-right: 200px;
+}
+#log1{
+    margin-right: 200px;
+}
+#log2{
+    margin-right: 200px;
+}
+#log3{
+    margin-right: 200px;
+}
+button{
+    background-color: #f08804;
+}
+
+div{
+    font-size: 18px;
+    font-family: cursive;
+    color: violet;
+    font-weight: bold;
+    text-transform: none;
+    text-align: center;
+    height: 150px;
+    width: 250px;
+    background-color: aquamarine;
+    border: 10px solid brown;
+    border-radius: 5%;
+    padding: 15px 15px 15px 15px;
+    margin: 15px 15px 15px 15px;
+}
+
+#q1{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+    border: 10px solid gold
+}
+#w22{
+    background-color: rgba(255, 0, 0, 0.25);
+}

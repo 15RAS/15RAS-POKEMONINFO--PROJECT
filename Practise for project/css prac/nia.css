@@ -1,0 +1,25 @@
+div{
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    border-: 15px solid GOLD;
+    border-top: 15px solid #4ECDC4;
+
+
+    
+    background-color: white;
+
+    animation: prac 0.75s ease-in-out 0s infinite normal;
+}
+
+@keyframes prac{
+    0%{
+        transform: rotate(0deg);
+    }
+    50%{
+        transform: rotate(180deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
